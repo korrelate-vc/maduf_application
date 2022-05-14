@@ -1,0 +1,12 @@
+name,type,vid,mob,dla,emo,soc,state
+warmup,warmup,3,1,1,2,1,31121
+vid_corner,vid,5,1,1,1,1,51111
+mob_corner,mob,1,5,1,1,1,15111
+dla_corner,dla,1,1,5,1,1,11511
+emo_corner,emo,1,1,1,5,1,11151
+soc_corner,soc,1,1,1,1,5,11115
+markerA,ma,3,1,2,2,1,31221
+markerB,mb,3,1,2,3,2,31232
+markerC,mc,1,4,3,1,4,14314
+markerD,md,4,2,5,1,2,42512
+markerE,me,1,1,5,4,5,11545

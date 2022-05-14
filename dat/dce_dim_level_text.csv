@@ -1,0 +1,26 @@
+dim,level,text
+1,1,My glaucoma <b> does not </b> cause me visual discomfort .
+1,2,My glaucoma causes me <b> slight </b> visual discomfort
+1,3,My glaucoma causes me  <b> moderate </b> visual discomfort
+1,4,My glaucoma causes me <b> very much </b> visual discomfort
+1,5,My glaucoma causes me <b> severe </b> visual discomfort
+2,1,My glaucoma <b> does not </b> impact my mobility
+2,2,My glaucoma <b> slightly </b> impacts my mobility
+2,3,My glaucoma <b> moderately </b> impacts my mobility
+2,4,My glaucoma <b> very much </b> impacts my mobility
+2,5,My glaucoma <b> severely </b> impacts my mobility
+3,1,My glaucoma <b> does not </b> change my daily activities
+3,2,My glaucoma <b> slightly </b> changes my daily activities
+3,3,My glaucoma <b> moderately </b> changes my daily activities
+3,4,My glaucoma <b> very much </b> changes my daily activities
+3,5,My glaucoma <b> severely </b> changes my daily activities
+4,1,My glaucoma <b> does not </b> influence my emotions
+4,2,My glaucoma <b> slightly </b> influences my emotions
+4,3,My glaucoma <b> moderately </b> influences my emotions
+4,4,My glaucoma <b> very much </b> influences my emotions
+4,5,My glaucoma <b> severely </b> influences my emotions
+5,1,My glaucoma <b> does not </b> disrupt my social activities
+5,2,My glaucoma <b> slightly </b> disrupts my social activities
+5,3,My glaucoma <b> moderately </b> disrupts my social activities
+5,4,My glaucoma <b> very much </b> disrupts my social activities
+5,5,My glaucoma <b> severely </b> disrupts my social activities
